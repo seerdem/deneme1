@@ -71,6 +71,6 @@ public class Entity {
 // minimum impact -> kod degisikligi yaptigimizda minium etki , daha az bagimli olmasi.
 // (bu kavrami spring icin de gorebiliriz)
 
-
+//dasdasd
 
 

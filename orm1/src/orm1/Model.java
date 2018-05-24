@@ -42,5 +42,5 @@ public class Model {
 		public String toString() {
 			return "Model [adi=" + adi + ", soyadi=" + soyadi + ", no=" + no + "]";
 		}
-		
+			//deneme
 }
